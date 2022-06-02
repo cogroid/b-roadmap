@@ -14,6 +14,8 @@
 
 * Support evaluating JavaScript files, and SCM files.
 
+* Support x64, i386 and armv7-a
+
 #### Atomize IDE
 
 * Make android app for editing JavaScript files and SCM files, debugging them, zipping them to packages.
@@ -26,15 +28,21 @@
 
 * Support accessing AtomSpace for updating rules, querying rules.
 
+* Support x64, i386 and armv7-a
+
 #### Atomize Framework
 
 * Make a framework for building applications based on chatbots, AtomSpace, JavaScript files, SCM files.
+
+* Support x64, i386 and armv7-a
 
 #### Atomize Builder
 
 * Make android app, web server for building android apps which are embeded Atomize Framework.
 
 * Users can build Android apps by editing only HTML files, chatbot rule files, JavaScript files, and SCM files.
+
+* Support x64, i386 and armv7-a
 
 #### Atomize OS
 
