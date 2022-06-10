@@ -6,7 +6,7 @@
 
 * Make java classes and JNI code for all useful classes of AtomSpace.
 
-* Support x64, i386 and armv7-a
+* Support x64 linux, i386 linux, armv7-a android, win32 and win64
 
 #### [Atomize - JavaScript Sandbox for AtomSpace](https://github.com/cogroid/d-atomize-bin)
 
@@ -14,7 +14,7 @@
 
 * Support evaluating JavaScript files, and SCM files.
 
-* Support x64, i386 and armv7-a
+* Support x64 linux, i386 linux, armv7-a android, win32 and win64
 
 #### [Atomize JSB Website: a-jsb.com](http://a-jsb.com)
 
@@ -22,9 +22,11 @@
 
 #### Atomize IDE
 
-* Make android app for editing JavaScript files and SCM files, debugging them, zipping them to packages.
+* Make android app, web server for editing JavaScript files and SCM files, debugging them, zipping them to packages.
 
 * Support running on ChromeBook.
+
+* Support x64 linux, i386 linux, armv7-a android, win32 and win64
 
 #### Chatter
 
@@ -32,13 +34,13 @@
 
 * Support accessing AtomSpace for updating rules, querying rules.
 
-* Support x64, i386 and armv7-a
+* Support x64 linux, i386 linux, armv7-a android, win32 and win64
 
 #### Atomize Framework
 
 * Make a framework for building applications based on chatbots, AtomSpace, JavaScript files, SCM files.
 
-* Support x64, i386 and armv7-a
+* Support x64 linux, i386 linux, armv7-a android, win32 and win64
 
 #### Atomize Builder
 
@@ -46,7 +48,7 @@
 
 * Users can build Android apps by editing only HTML files, chatbot rule files, JavaScript files, and SCM files.
 
-* Support x64, i386 and armv7-a
+* Support x64 linux, i386 linux, armv7-a android, win32 and win64
 
 #### Atomize Kiosk
 
