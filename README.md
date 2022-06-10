@@ -58,5 +58,11 @@
 
 * Customize Android OS which makes Atomize IDE, Atomize Framework and Atomize Builder as main elements
 
+#### Atomize Robot
+
+* Make a thinking and conversational robot. 
+
+* User can define knowledge representation, or program a robot by dialogue.
+
 ---
 [Head icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/head)
