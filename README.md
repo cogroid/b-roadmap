@@ -64,5 +64,7 @@
 
 * User can define knowledge representation, or program a robot by dialogue.
 
+* A robot have customizable architecture so that everyone can customize Atomize Robot and make a new one.
+
 ---
 [Head icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/head)
